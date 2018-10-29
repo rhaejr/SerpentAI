@@ -15,7 +15,6 @@ class SerpentBindingOfIsaacAfterbirthGameAgent(GameAgent):
         pass
 
     def handle_play(self, game_frame):
-        print("Hello World!")
 
         for i, game_frame in enumerate(self.game_frame_buffer.frames):
             self.visual_debugger.store_image_data(

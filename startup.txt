@@ -1,0 +1,3 @@
+conda activate serpent
+serpent launch BindingOfIsaacAfterbirth
+serpent play BindingOfIsaacAfterbirth SerpentBindingOfIsaacAfterbirthGameAgent
